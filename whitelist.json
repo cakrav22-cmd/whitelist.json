@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "tokens": []
+  "tokens": [
+    {
+      "hash": "ca76269076a8c0a306e730d0fd7bd3dcd68c0c4d789bc85eacb9b7e35ccff572",
+      "active": true,
+      "added_by": "1792469144",
+      "added_at": 1790919434655
+    }
+  ]
 }
